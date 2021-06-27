@@ -11,4 +11,4 @@ A website that offers fitness training services.
 https://zachyarbrough.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Zach
