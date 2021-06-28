@@ -200,6 +200,7 @@ section {
     width: 80%;
     border-bottom: 1px solid #39a6b2;
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
 }
@@ -365,6 +366,12 @@ footer a {
         font-size: 20px;
     }
 
+    footer h2, 
+    footer div {
+        text-align: center;
+        width: 100%;
+      }
+
     .hero-cta,
     .hero-form{
         width: 100%;
@@ -391,10 +398,6 @@ footer a {
 
     section {
         padding: 30px 15px;
-      }
-
-      .step {
-          flex-direction: column;
       }
     
       .step h3 {
